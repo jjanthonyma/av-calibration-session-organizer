@@ -16,7 +16,7 @@ sessions/2026-01-24/
 
 ### Step 1 – Go to project folder
 
-(screenshots/step1.jpg)
+![Step 1 – Go to project folder](screenshots/step1.jpg)
 
 ### Step 2 – Create dated session folders
 
