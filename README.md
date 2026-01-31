@@ -20,8 +20,11 @@ sessions/2026-01-24/
 
 ### Step 2 – Create dated session folders
 
+![Step 2](screenshots/step2.jpg)
 
 ### Step 3 – Create session notes file
+
+![Step 3](screenshots/step3.jpg)
 
 ### Step 4 – Write session information
 ### Step 5 – Create a log file
