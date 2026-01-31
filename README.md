@@ -4,14 +4,7 @@ Goal: store every calibration session by date using a clean and repeatable struc
 
 Final structure created for one session:
 
-sessions/2026-01-24/
-├── cameras/ 
-├── lidar/ 
-├── logs/ 
-│ └── terminal.log 
-├── config/
-└── notes.txt
-
+![Step 7](screenshots/step7.jpg)
 
 
 ### Step 1 – Go to project folder
@@ -27,7 +20,15 @@ sessions/2026-01-24/
 ![Step 3](screenshots/step3.jpg)
 
 ### Step 4 – Write session information
+
+![Step 4](screenshots/step4.jpg)
+
 ### Step 5 – Create a log file
+
+![Step 5](screenshots/step5.jpg)
+
 ### Step 6 – Verify the final structure
+
+![Step 6](screenshots/step6.jpg)
 
 
