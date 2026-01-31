@@ -14,12 +14,12 @@ sessions/2026-01-24/
 
 ### Step 1 – Go to project folder
 
-screenshots/step1.jpg
+/screenshots/step1.jpg
 
 ### Step 2 – Create dated session folders
 
 
-### Step 3 – CCreate session notes file
+### Step 3 – Create session notes file
 
 ### Step 4 – Write session information
 ### Step 5 – Create a log file
